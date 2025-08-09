@@ -1,4 +1,5 @@
 # ESP32 Environmental Monitor
+<img width="1755" height="938" alt="humidity_temperature_display_bb" src="https://github.com/user-attachments/assets/29952ecc-947d-4398-9d4f-98478261e2a9" />
 
 A modular ESP32-based environmental monitoring system that measures temperature and humidity using a DHT11 sensor, displays readings on an SSD1306 OLED, and sends data over WiFi to a computer for real-time plotting.
 
